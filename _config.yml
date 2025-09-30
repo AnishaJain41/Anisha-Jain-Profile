@@ -4,10 +4,10 @@ title: "Anisha Jain"
 name: "Profile for Anisha Jain"
 email: jainanisha18@gmail.com
 url: "https://AnishaJain41.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "AnishaJain41/Jekyll-for-Job-Market"
+baseurl: "/Anisha-Jain-Profile"
+repository: "AnishaJain41/Anisha-Jain-Profile"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: assets/images/24-Anisha_Jain-1107-WD-07.jpg
 
 include:
   - _pages
@@ -38,8 +38,8 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Anisha Jain"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Anisha Jain. I am pursuing PhD in Economics at Northern Illinois University and a data analyst at Workforce and Organizational Research Center (WORC). Previously, I graduated with a Masters of Arts in Economics from University of Wisconsin - Milwaukee and joined as a business development intern at LanzaTech, Skokie."
+  avatar : "/assets/images/24-Anisha_Jain-1107-WD-07.jpg"
+  bio    : "Anisha is a PhD Candidate in Economics at Northern Illinois University and a Data Analyst at the Workforce and Organizational Research Centre (WORC). Specializing in labor economics and econometrics, Anisha's current research investigates the dynamics of labor productivity and its relationship to compensation, capital intensity, and intermediate inputs. With a rigorous quantitative background, Anisha is dedicated to advancing understanding in productivity and labor market outcomes."
   location: "DeKalb, Illinois"
   github : 
   linkedin: "anisha-jain41" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
