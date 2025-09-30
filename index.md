@@ -6,18 +6,15 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/AnishaJain41/Anisha-Jain-Profile/blob/main/assets/images/24-Anisha_Jain-1107-WD-07.jpg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+My name is Anisha Jain, and I am a PhD Candidate in Economics at Northern Illinois University. I specialize in labor economics and econometrics. My interest in labor economics drove my ongoing research which focuses on dynamics of labor productivity and it's relationship with compensation and capital intensity.
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
 
 ### Background
+My Ph.D. journey at Northern Illinois University came with lots of opportunities including a Masters of Science in Statistics, teaching Microeconomics at both graduate as well as undergraduate level, teaching Mathematics for Economics, working as a research assistant with Nonprofit and NGO Studies department, and being part of Association of Graduate Economic Students (AGES) as a Secretary. Additionally, outside Northern Illinois University, I was involved in an internship with Workforce and Organizational Research Centre (WORC) as a data analyst.
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+Prior to Northern Illinois University, I interned with LanzaTech in 2019 - 2020 as a business analyst. Prior to that I graduated from University of Wisconsin - Milwaukee in 2019, where I studied econometrics and industrial organization apart from microeconomics and macroeconomics
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
