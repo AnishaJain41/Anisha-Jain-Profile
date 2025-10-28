@@ -8,8 +8,7 @@ header:
 
 <img src="https://github.com/AnishaJain41/Anisha-Jain-Profile/blob/main/assets/images/24-Anisha_Jain-1107-WD-03.jpg?raw=true" width="50%" hspace="20" align="right">
 
-
-My name is Anisha Jain, and I am a PhD Candidate in Economics at Northern Illinois University. I specialize in labor economics and econometrics. My interest in labor economics drove my ongoing research which focuses on dynamics of labor productivity and it's relationship with compensation and capital intensity.
+I am Anisha Jain and a PhD Candidate in Economics at Northern Illinois University. I specialize in labor economics and econometrics. My interest in labor economics drove my ongoing research which focuses on dynamics of labor productivity and it's relationship with compensation and capital intensity.
 
 
 ### Background
