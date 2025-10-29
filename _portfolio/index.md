@@ -14,4 +14,4 @@ permalink: /portfolio/index.html
 <h2 id="working-papers">Working Papers</h2> 
   
 **Job Market Paper:** Jain, Anisha, "Productivity Gains and its linkage with Compensation and Capital" Keywords: productivity, compensation, capital intensity
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+[Download File]({{ site.baseurl }}/assets/docs/[your-paper].pdf)
