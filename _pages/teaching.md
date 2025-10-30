@@ -6,18 +6,23 @@ classes: wide
 permalink: /teaching/
 ---
 
-*These courses are fictional and were created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
+
+# Graduate Level
+
+### Northern Illinois University (Lead Instructor)
+- ECON 660: Microeconomics (Spring 2025)  
+    - Foundational course of microeconomics at graduate level focusing on consumer and producer theory, optimization under budget or production constraints, and uncertainty.  
+
+### Northern Illinois University (Teaching Assistant)
+- ECON 591: Math Methods for Economics (Fall 2021, Fall 2022, Fall 2023, Fall 2024)
+    - Highly intensive course on mathematical methods used in economics intended for first year PhD and MA students as a review of methods that will be used in the micro and macro theory sequences. 
+- ECON 660: Microeconomics (Spring 2023, Spring 2024)
+    - Foundational course of microeconomics at graduate level focusing on consumer and producer theory, optimization under budget or production constraints, and uncertainty.
+
 
 # Undergraduate Level
 
-### Northern Illinois University (Official Mascot)
-- SPRT 101: Introduction to Mascot Sciences (fall 2023, spring 2024)  
-    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.  
-- CHEER 250: Advanced Tail-Wagging and Paw-Shaking Techniques (spring 2024)  
-    - Hands-on (paws-on) workshop focusing on non-verbal communication methods for maximizing school spirit at sporting events.  
-
-### Guest Lectures
- - MKTG 315: Sports Marketing and Branding (fall 2023)  
-    - Guest lecture on "The Mascot's Role in University Brand Identity"  
-- PSYC 220: Social Psychology (spring 2024)  
-    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"   
+### Northern Illinois University (Teaching Assistant)
+- ECON 260: Principles of Microeconomics (Fall 2025)
+    - Foundational course offered to undergraduate students to give students a basic grasp of economics and to develop  their understanding of market functions
+ 
