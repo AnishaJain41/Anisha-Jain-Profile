@@ -6,15 +6,17 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
 
 ### Campus Office
 Northern Illinois University  
-Out on the Field  
+DuSable Room 470 \
 DeKalb, IL 60115-2825  
 
 ###### Office Hours:  
-by appointment
+By appointment
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+<img src="https://raw.githubusercontent.com/AnishaJain41/Anisha-Jain-Profile/refs/heads/master/assets/images/generated-image%20(1).png" 
+     alt="image of email" 
+     width="150">
+
