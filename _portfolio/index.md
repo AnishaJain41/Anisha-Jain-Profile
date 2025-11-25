@@ -16,7 +16,7 @@ permalink: /portfolio/index.html
 **Job Market Paper:** Jain, Anisha, "Productivity Gains and its linkage with Compensation and Capital" Keywords: productivity, compensation, capital intensity
 [Download File]({{ site.baseurl }}/assets/docs/Anisha Jain - Dissertation Chapter 1.pdf)
 
-<h2 id="Web Publication">Web Publication</h2> 
+<h2 id="web-publication">Web Publication</h2> 
 
 **Co-Authored:** Schatteman, Alicia, Ann O’Connell, Julie & Jain, Anisha (2021). DeKalb County Nonprofit Study (third edition). (https://dcnp.org/wp-content/uploads/2021/03/DeKalb-County-Nonprofit-Study-2021-FINAL.pdf)
 
