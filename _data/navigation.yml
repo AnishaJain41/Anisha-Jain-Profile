@@ -25,3 +25,5 @@ portfolio:
         url: /portfolio/#publications
       - title: "Working Papers"
         url: /portfolio/#working-papers
+      - title: "Web Publication"
+        url: /portfolio/#web-publication
