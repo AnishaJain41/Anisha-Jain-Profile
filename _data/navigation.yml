@@ -4,14 +4,12 @@ main:
     url: /
   - title: "Curriculum Vitae"
     url: /assets/docs/CV_Anisha Jain_Oct2025.pdf
-  - title: "Resume"
-    url: /assets/docs/Resume_Anisha Jain_June22.pdf
+  - title: "Résumé"
+    url: /assets/docs/Resume_Anisha Jain_.pdf
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
     url: /teaching/
-  - title: "Links"
-    url: /links/
   - title: "Contact"
     url: /contact/
   # - title: "Blog"
